@@ -5,7 +5,7 @@ To see more details, go to file "projeto". Configuration and installation manual
 
 To use it, you need to install:
 
-sudo apt-get install libsdl-image1.2-dev
-sudo apt-get install libsdl-dev
+1) sudo apt-get install libsdl-image1.2-dev
+2) sudo apt-get install libsdl-dev
 
 Enjoy.
