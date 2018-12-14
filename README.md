@@ -3,4 +3,9 @@ this is autonomous system project that consist in turn jaguar an autonomous vehi
 
 To see more details, go to file "projeto". Configuration and installation manuals is available in appendix "Apêndice B Jaguar Autônomo".
 
+To use it, you need to install:
+
+sudo apt-get install libsdl-image1.2-dev
+sudo apt-get install libsdl-dev
+
 Enjoy.
